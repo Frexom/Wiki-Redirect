@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Wiki-Redirect",
+    "description": "Redirects deprecated wikis to their updated counterparts automatically.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup/hello.html",
+        "default_icon": "images/hello_extension.png"
+    },
+    "content_scripts": [
+        {
+            "js": ["scripts/redirect.js"],
+            "matches": ["https://*.fandom.com/wiki/*"],
+            "run_at": "document_start"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["data/alternatives.json"],
+            "matches": ["*://*/*"]
+        }
+    ],
+    "permissions": ["activeTab"]
+}
