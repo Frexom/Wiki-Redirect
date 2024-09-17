@@ -1,4 +1,16 @@
 {
     "https://hypixel-skyblock.fandom.com/wiki/Hypixel_SkyBlock_Wiki":"https://wiki.hypixel.net/Main_Page",
-    "https://hypixel-skyblock.fandom.com/wiki/":"https://wiki.hypixel.net/"
+    "https://hypixel-skyblock.fandom.com/wiki/":"https://wiki.hypixel.net/",
+
+    "https://minecraft.fandom.com/wiki/Minecraft_Wiki":"https://minecraft.wiki/",
+    "https://minecraft.fandom.com/wiki/":"https://minecraft.wiki/",
+
+    "https://terraria.fandom.com/" : "https://terraria.wiki.gg/",
+
+    "https://zelda.fandom.com/":"https://zeldawiki.wiki/",
+
+    "https://runescape.fandom.com/wiki/RuneScape_Wiki":"https://runescape.wiki/",
+    "https://runescape.fandom.com/wiki/":"https://runescape.wiki/w/",
+
+    "https://hollowknight.fandom.com/wiki/":"https://hollowknight.wiki/w/"
 }
