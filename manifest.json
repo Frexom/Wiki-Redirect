@@ -4,7 +4,7 @@
     "description": "Redirects deprecated wikis to their updated counterparts automatically.",
     "version": "1.0",
     "action": {
-        "default_popup": "popup/hello.html",
+        "default_popup": "popup/main.html",
         "default_icon": "images/hello_extension.png"
     },
     "content_scripts": [
