@@ -12,5 +12,11 @@
     "https://runescape.fandom.com/wiki/RuneScape_Wiki":"https://runescape.wiki/",
     "https://runescape.fandom.com/wiki/":"https://runescape.wiki/w/",
 
-    "https://hollowknight.fandom.com/wiki/":"https://hollowknight.wiki/w/"
+    "https://hollowknight.fandom.com/wiki/":"https://hollowknight.wiki/w/",
+
+    "https://pizzatower.fandom.com/wiki/Pizza_Tower_Wiki":"https://pizzatower.wiki/wiki/Pizza_Tower_Wiki:Main_Page",
+    "https://pizzatower.fandom.com/":"https://pizzatower.wiki/",
+
+    "https://lotr.fandom.com/wiki/Main_Page":"https://tolkiengateway.net/wiki/The_Lord_of_the_Rings",
+    "https://lotr.fandom.com/":"https://tolkiengateway.net/"
 }
