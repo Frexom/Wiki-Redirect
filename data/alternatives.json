@@ -22,6 +22,15 @@
 
     "https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki":"http://mylittlewiki.org/wiki/Main_Page",
     "https://mlp.fandom.com/fr/wiki/Wiki_My_Little_Pony_:_Les_amies,_c%27est_magique": "http://mylittlewiki.org/wiki/Main_Page",
-    "https://mlp.fandom.com/":"http://mylittlewiki.org/"
+    "https://mlp.fandom.com/":"http://mylittlewiki.org/",
+
+    "https://riskofrain.fandom.com/wiki/Main_Page":"https://riskofrain.wiki.gg/wiki/Risk_of_Rain",
+    "https://riskofrain.fandom.com/":"https://riskofrain.wiki.gg/",
+
+    "https://riskofrain2.fandom.com/wiki/Risk_of_Rain_2_Wiki":"https://riskofrain.wiki.gg/wiki/Risk_of_Rain_2",
+    "https://riskofrain2.fandom.com/":"https://riskofrain.wiki.gg/",
+
+    "https://high-on-life.fandom.com/wiki/High_On_Life_Wiki":"https://highonlife.wiki.spellsandguns.com/High_On_Life_Wiki",
+    "https://high-on-life.fandom.com/wiki/":"https://highonlife.wiki.spellsandguns.com/"
 
 }
