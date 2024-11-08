@@ -20,5 +20,4 @@ For a more complete list, check [this file](https://github.com/Frexom/Wiki-Redir
 
 **WIP**
 
-If you know what you're doing you can go ahead and install in on your own.
-    
+If you know what you're doing you can go ahead and install it on your own.

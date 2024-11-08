@@ -10,7 +10,7 @@
     "content_scripts": [
         {
             "js": ["scripts/redirect.js"],
-            "matches": ["https://*.fandom.com/wiki/*"],
+            "matches": ["https://*.fandom.com/*"],
             "run_at": "document_start"
         }
     ],

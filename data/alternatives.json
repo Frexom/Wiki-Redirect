@@ -18,5 +18,10 @@
     "https://pizzatower.fandom.com/":"https://pizzatower.wiki/",
 
     "https://lotr.fandom.com/wiki/Main_Page":"https://tolkiengateway.net/wiki/The_Lord_of_the_Rings",
-    "https://lotr.fandom.com/":"https://tolkiengateway.net/"
+    "https://lotr.fandom.com/":"https://tolkiengateway.net/",
+
+    "https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki":"http://mylittlewiki.org/wiki/Main_Page",
+    "https://mlp.fandom.com/fr/wiki/Wiki_My_Little_Pony_:_Les_amies,_c%27est_magique": "http://mylittlewiki.org/wiki/Main_Page",
+    "https://mlp.fandom.com/":"http://mylittlewiki.org/"
+
 }
